@@ -27,7 +27,16 @@
                 "The angel gave Mary a sign by telling her about Elizabeth's pregnancy. Why did he do that?",
                 "The Son of God became incarnate as a small embryo in His mother's womb. Ponder this awesome mystery."
             ],
-            "questions": "1. How does God send messengers to you in your life? Do you listen? How might you open your heart and your mind to hear God more clearly? 2. What is your response when you don't understand the message God has for you? Are you perplexed or frightened or both? 3. How is your prayer life? Are you ever totally immersed in prayer? How might you become more attentive and devoted in prayer? 4. How much do you value chastity in your life? 5. How is the Holy Spirit at work in your life? 6. Are you comfortable enough with God to ask Him questions? Do you believe that He will answer and listen closely for His response? 7. How can you be a faithful servant of the Lord? 8. In which areas of your life is God waiting for your \u201cyes\u201d?",
+            "questions": [
+                "How does God send messengers to you in your life? Do you listen? How might you open your heart and your mind to hear God more clearly?",
+                "What is your response when you don't understand the message God has for you? Are you perplexed or frightened or both?",
+                "How is your prayer life? Are you ever totally immersed in prayer? How might you become more attentive and devoted in prayer?",
+                "How much do you value chastity in your life?",
+                "How is the Holy Spirit at work in your life?",
+                "Are you comfortable enough with God to ask Him questions? Do you believe that He will answer and listen closely for His response?",
+                "How can you be a faithful servant of the Lord?",
+                "In which areas of your life is God waiting for your \u201cyes\u201d?"
+            ],
             "quotes": [
                 {
                     "quote": "To the virgin Mary was sent, not any one of the angels, but the archangel Gabriel; for upon this service it was meet that the highest angel should come, as being the bearer of the highest of all tidings. He is therefore marked by a particular name, to signify what was his effectual part in the work. For Gabriel is interpreted, \"the strength of God.\" By the strength of God then was He to be announced Who was coming as the God of strength, and mighty in battle, to put down the powers of the air.",
@@ -90,7 +99,22 @@
                 "Reflect on Mary and Elizabeth's time together and their spiritual friendship. What did they do and talk about?",
                 "Look up 1 Samuel 2:1-10 and Genesis 18:1-15 and discover the parallels between Mary and Hannah and Elizabeth and Sarah."
             ],
-            "questions": "1. How fast do you respond to God's prompting in your heart to act with love? 2. What are your motives for doing good for people? Are they pure? 3. What is your attitude toward serving other people? 4. How is the Holy Spirit moving and working in you? How are you responding? 5. How do you honor Mary? What is your attitude towards her? Do you recognize her for who she is and treat her accordingly? 6. Do you believe what has been spoken to you by the Lord? 7. How can you magnify the Lord? 8. How much time do you spend rejoicing in the Lord? 9. How are you doing on humility? 10. How much do you trust in God's mercy? 11. What great things has God done for you? How is He working in your life? 12. How are you being called to counter the norms and standards of the world? 13. Do you believe that God fulfills His promises? 14. Have you formed any close, spiritual friendships? How might you cultivate those you have?",
+            "questions": [
+                "How fast do you respond to God's prompting in your heart to act with love?",
+                "What are your motives for doing good for people? Are they pure?",
+                "What is your attitude toward serving other people?",
+                "How is the Holy Spirit moving and working in you? How are you responding?",
+                "How do you honor Mary? What is your attitude towards her? Do you recognize her for who she is and treat her accordingly?",
+                "Do you believe what has been spoken to you by the Lord?",
+                "How can you magnify the Lord?",
+                "How much time do you spend rejoicing in the Lord?",
+                "How are you doing on humility?",
+                "How much do you trust in God's mercy?",
+                "What great things has God done for you? How is He working in your life?",
+                "How are you being called to counter the norms and standards of the world?",
+                "Do you believe that God fulfills His promises?",
+                "Have you formed any close, spiritual friendships? How might you cultivate those you have?"
+            ],
             "quotes": [
                 {
                     "quote": "But soon the blessed fruits of Mary's coming and our Lord's presence are made evident. For it follows, And it came to pass, that when Elisabeth heard the salutation of Mary, the babe leaped in her womb. Mark the distinction and propriety of each word. Elisabeth first heard the word, but John first experienced the grace. She heard by the order of nature, he leaped by reason of the mystery. She perceived the coming of Mary, he the coming of the Lord.",
@@ -224,7 +248,24 @@
                 "Anna praised God and then became an evangelist. Ponder how she spread the word about the Child to others who, like Simeon and Anna, were looking for the redemption of Jerusalem.",
                 "Reflect on Anna as our role model in her dedication, her praise, her evangelism, and her excitement."
             ],
-            "questions": "1. How do you feel the Holy Spirit working in your life? 2. How would you describe your relationship with God? 3. Are you righteous and devout in the sense described above? How might you become more so? Do you believe that God will help you as you seek Him? 4. Are you watching and waiting for the Lord? 5. How is the Spirit guiding you? How are you responding? 6. Are you seeking God? Are you open and willing and attentive to Him? 7. Are you amazed by Jesus? What especially amazes you? 8. How often and in what ways do you bless those around you? 9. How have joys been tinged with sorrow in your life? What have you learned from those experiences? 10. Is your religious experience more internal or more external? If you answered \u201cexternal,\u201d how might you grow stronger in your interior relationship with God? 11. Have you ever felt like a sword has pierced you all the way to your soul? How did that experience affect your relationship with God? 12. Do you combine fasting and prayer? How might you fast more? 13. Have you dedicated your life to God? How might you better live out that dedication? 14. How do you spread the word about God? 15. Do you get excited about God? Why or why not? 16. What lessons can you learn from Simeon and Anna?",
+            "questions": [
+                "How do you feel the Holy Spirit working in your life?",
+                "How would you describe your relationship with God?",
+                "Are you righteous and devout in the sense described above? How might you become more so? Do you believe that God will help you as you seek Him?",
+                "Are you watching and waiting for the Lord?",
+                "How is the Spirit guiding you? How are you responding?",
+                "Are you seeking God? Are you open and willing and attentive to Him?",
+                "Are you amazed by Jesus? What especially amazes you?",
+                "How often and in what ways do you bless those around you?",
+                "How have joys been tinged with sorrow in your life? What have you learned from those experiences?",
+                "Is your religious experience more internal or more external? If you answered \u201cexternal,\u201d how might you grow stronger in your interior relationship with God?",
+                "Have you ever felt like a sword has pierced you all the way to your soul? How did that experience affect your relationship with God?",
+                "Do you combine fasting and prayer? How might you fast more?",
+                "Have you dedicated your life to God? How might you better live out that dedication?",
+                "How do you spread the word about God?",
+                "Do you get excited about God? Why or why not?",
+                "What lessons can you learn from Simeon and Anna?"
+            ],
             "quotes": [
                 {
                     "quote": "But let us see what these offerings mean. The turtle dove is the most vocal of birds, and the pigeon the gentlest. And such was the Savior made unto us; He was endowed with perfect meekness, and like the turtle dove entranced the world, filling His garden with His own melodies. There was killed then either a turtle dove or a pigeon, that by a figure He might be shown forth to us as about to suffer in the flesh for the life of the world.",
@@ -288,7 +329,20 @@
                 "Reflect on how Mary treasured all these things in her heart. She pondered the events, knowing that God was active in her life and speaking to her through each and every incident. She \u201cmined\u201d meaning from everything that happened and searched untiringly for God's message.",
                 "Ponder how Jesus grew. He increased in wisdom and age. He was fully Man as well as fully God. He had a human soul and a human will as well as a human body. In His divine nature, He did not change, but in His human nature, He did. Think carefully about this great mystery of God made Man."
             ],
-            "questions": "1. How do you worship the Lord? Do you understand the importance of formal, ritualized worship? Do you attend Mass on Sundays and Holy Days? Are you focused or distracted at Mass? How might you pray better and be more attentive at Mass? 2. Have you ever experienced the fear of losing a child, even for a short time? How did you respond? 3. Have you ever lost Jesus? What does it feel like to lose Him? 4. How do you search for Jesus? What does it feel like to find Him? 5. How does Jesus carry on a dialogue with You? Is your prayer and study a dialogue with God? 6. How do you listen to God? 7. How does He question You? 8. What kinds of questions do you ask God? How does He answer? 9. Are you amazed by Jesus? What amazes you the most? 10. How are you going about your Father's business? 11. Do you always understand what Jesus tells you? What do you do when you don't understand? 12. Do you look for deeper meanings in the events of your life? Do you see how God is working through them? Do you treasure even small things because God is directing them and speaking to you through them? Can you think of some events in your life that turned out to be much more meaningful than you realized at first?",
+            "questions": [
+                "How do you worship the Lord? Do you understand the importance of formal, ritualized worship? Do you attend Mass on Sundays and Holy Days? Are you focused or distracted at Mass? How might you pray better and be more attentive at Mass?",
+                "Have you ever experienced the fear of losing a child, even for a short time? How did you respond?",
+                "Have you ever lost Jesus? What does it feel like to lose Him?",
+                "How do you search for Jesus? What does it feel like to find Him?",
+                "How does Jesus carry on a dialogue with You? Is your prayer and study a dialogue with God?",
+                "How do you listen to God?",
+                "How does He question You?",
+                "What kinds of questions do you ask God? How does He answer?",
+                "Are you amazed by Jesus? What amazes you the most?",
+                "How are you going about your Father's business?",
+                "Do you always understand what Jesus tells you? What do you do when you don't understand?",
+                "Do you look for deeper meanings in the events of your life? Do you see how God is working through them? Do you treasure even small things because God is directing them and speaking to you through them? Can you think of some events in your life that turned out to be much more meaningful than you realized at first?"
+            ],
             "quotes": [
                 {
                     "quote": "Now that the Lord came up every year to Jerusalem at the Passover, betokens His humility as a man, for it is, man's duty to meet together to offer sacrifices to God, and conciliate Him with prayers. Accordingly the Lord as man, did among men what God by angels commended c men to do. Hence it is said, According to the custom of the feast day. Let us follow then the journey of His mortal life, if we delight to behold the glory of His divine nature.",
@@ -374,7 +428,19 @@
                 "Benedict XVI offers an interpretation of Jesus' baptism that focuses on Jesus' solidarity with men. At the baptism, Benedict says, Jesus took upon Himself all our burdens and brought them down into the Jordan. He accepted \u201cdeath for the sins of humanity\u201d in a foreshadowing the cross. Consider this interpretation of the baptism as both identification and anticipation.",
                 "Many saints have pointed out that at His baptism Jesus was cleansing the water for us and preparing the way for the sacrament of Christian baptism. How did Jesus do this?"
             ],
-            "questions": "1. How would you have responded to John the Baptist if you had lived in his time? 2. Have you ever experienced a time when you had to let go of your way of thinking and allow God to take over? What was that like? How did it change your relationship with God? 3. Do you believe that God has a plan for your life? 4. How are you at accepting mysteries? 5. How strong is your relationship with the Holy Spirit? How might that relationship grow and become stronger? 6. Do you know that you are God's beloved child? 7. Are you following God's will in your life? How do you discern His will? 8. How does God reveal Himself to you? How does He break into your world? 9. How do you testify to Jesus? 10. Can you see the mystery hidden in the history of the Scriptures? 11. What does your own baptism mean to you?",
+            "questions": [
+                "How would you have responded to John the Baptist if you had lived in his time?",
+                "Have you ever experienced a time when you had to let go of your way of thinking and allow God to take over? What was that like? How did it change your relationship with God?",
+                "Do you believe that God has a plan for your life?",
+                "How are you at accepting mysteries?",
+                "How strong is your relationship with the Holy Spirit? How might that relationship grow and become stronger?",
+                "Do you know that you are God's beloved child?",
+                "Are you following God's will in your life? How do you discern His will?",
+                "How does God reveal Himself to you? How does He break into your world?",
+                "How do you testify to Jesus?",
+                "Can you see the mystery hidden in the history of the Scriptures?",
+                "What does your own baptism mean to you?"
+            ],
             "quotes": [
                 {
                     "quote": "Scripture tells of many wonders wrought at various times in this river; as that, among others, in the Psalms, Jordan was driven backwards (Psalms 114:3); before the water was driven back, now sins are turned back in its current; as Elijah divided the waters of old, so Christ the Lord wrought in the same Jordan the separation of sin.",
@@ -445,7 +511,20 @@
                 "Jesus revealed His glory, and the disciples believed in Him. Ponder the purpose of signs, which point to something beyond themselves.",
                 "Reflect on this mystery's message about marriage. After all, Jesus' first sign was in the context of a wedding celebration."
             ],
-            "questions": "1. Do you immediately go to Jesus with any need or problem, even the small things? Why or why not? 2. How is your relationship with Mary, the Mother of God? Do you believe that she loves you and intercedes for you? 3. Do you trust Jesus to respond to all your needs, explicit or implicit, spoken and unspoken? How does that trust affect your life? How might you grow in trust? 4. Has there ever been a time when God seemed to delay in answering your prayers or a time when He didn't seem to answer them at all? How did you feel? Why do you suppose God responded in the way He did? Have you learned a lesson from an unanswered prayer? 5. Do you ever share in nonverbal conversation with Jesus? Is your prayer ever beyond words? What is that experience like? 6. How do you imitate Mary in pointing to Jesus? How do you accept her message of \u201cDo whatever He tells you\u201d and pass that message along? 7. How has God been extravagant with you? 8. Have you ever noticed that God's commands are very simple yet are not always easy to fulfill? 9. Do you unquestioningly obey God even when you don't understand? 10. Do you understand that God is in control? How might your life and attitude be different if you kept that truth always in mind? 11. Are you humble enough to see miracles? Why or why not? 12. In which areas of your life do you need to ask Jesus to change water into wine?",
+            "questions": [
+                "Do you immediately go to Jesus with any need or problem, even the small things? Why or why not?",
+                "How is your relationship with Mary, the Mother of God? Do you believe that she loves you and intercedes for you?",
+                "Do you trust Jesus to respond to all your needs, explicit or implicit, spoken and unspoken? How does that trust affect your life? How might you grow in trust?",
+                "Has there ever been a time when God seemed to delay in answering your prayers or a time when He didn't seem to answer them at all? How did you feel? Why do you suppose God responded in the way He did? Have you learned a lesson from an unanswered prayer?",
+                "Do you ever share in nonverbal conversation with Jesus? Is your prayer ever beyond words? What is that experience like?",
+                "How do you imitate Mary in pointing to Jesus? How do you accept her message of \u201cDo whatever He tells you\u201d and pass that message along?",
+                "How has God been extravagant with you?",
+                "Have you ever noticed that God's commands are very simple yet are not always easy to fulfill?",
+                "Do you unquestioningly obey God even when you don't understand?",
+                "Do you understand that God is in control? How might your life and attitude be different if you kept that truth always in mind?",
+                "Are you humble enough to see miracles? Why or why not?",
+                "In which areas of your life do you need to ask Jesus to change water into wine?"
+            ],
             "quotes": [
                 {
                     "quote": "Nor is it without some mysterious allusion, that the marriage is related as taking place on the third day. The first age of the world, before the giving of the Law, was enlightened by the example of the Patriarchs; the second, under the Law, by the writings of the Prophets; the third, under grace, by the preaching of the Evangelists, as if by the light of the third day; for our Lord had now appeared in the flesh. The name of the place too where the marriage was held, Cana of Galilee, which means, desire of migrating, has a typical signification, viz. that those are most worthy of Christ, who burn with devotional desires, and have known the passage from vice to virtue, from earthly to eternal things.",
@@ -529,7 +608,27 @@
                 "Consider Peter's preaching of the kingdom (see Acts 2:14-42). Reflect on the fulfillment of prophecies; the proclamation of Jesus, the Messiah; the conversion of three thousand; and the life of the first Christian community.",
                 "Ponder Paul's conversion (Acts 9:1-19). Think about how Paul's physical blindness manifested his former spiritual blindness; Jesus' identification with the Church (to persecute the Church was to persecute Jesus); fasting and prayer as part of conversion; Ananias' vision; how Ananias laid hands on Paul; how people assist one another along the path of conversion; Jesus' desire to use Paul as His instrument; how Paul became filled with the Spirit; how something like scales fell from Paul's eyes; and the Eucharistic overtones involved in Paul's taking food to regain his strength."
             ],
-            "questions": "1. What is your conversion story? 2. How are you converting to God each and every day? 3. In which areas of your life do you still need to convert? 4. How do you experience the kingdom of God? 5. How has God called you in the past? How is He calling you now? How do you respond? 6. What do you have to leave behind in your life to follow Jesus? 7. In what ways do you need healing from Jesus? 8. Of what sins must you repent? 9. How might you apply the teachings of the sermon on the mount and the sermon on the plain to your own life? 10. How might you apply each of the parables to your own life? 11. In what ways do you need to become like a little child? 12. Do you take up your cross and follow Jesus each day? In what ways? What is your attitude toward the cross and towards trials in your life? 13. Do you trust that Jesus will forgive your sins when you repent? 14. How do you respond to Jesus' love and mercy? 15. Are you willing to look like a fool to follow Jesus? 16. How do you draw others to Jesus? 17. Are you at all spiritually blind? In what ways? Do you trust in Jesus to open your eyes? 18. How are you doing at prayer and fasting? 19. How do other people help you in your conversion? How do you help others?",
+            "questions": [
+                "What is your conversion story?",
+                "How are you converting to God each and every day?",
+                "In which areas of your life do you still need to convert?",
+                "How do you experience the kingdom of God?",
+                "How has God called you in the past? How is He calling you now? How do you respond?",
+                "What do you have to leave behind in your life to follow Jesus?",
+                "In what ways do you need healing from Jesus?",
+                "Of what sins must you repent?",
+                "How might you apply the teachings of the sermon on the mount and the sermon on the plain to your own life?",
+                "How might you apply each of the parables to your own life?",
+                "In what ways do you need to become like a little child?",
+                "Do you take up your cross and follow Jesus each day? In what ways? What is your attitude toward the cross and towards trials in your life?",
+                "Do you trust that Jesus will forgive your sins when you repent?",
+                "How do you respond to Jesus' love and mercy?",
+                "Are you willing to look like a fool to follow Jesus?",
+                "How do you draw others to Jesus?",
+                "Are you at all spiritually blind? In what ways? Do you trust in Jesus to open your eyes?",
+                "How are you doing at prayer and fasting?",
+                "How do other people help you in your conversion? How do you help others?"
+            ],
             "quotes": [
                 {
                     "quote": "Repent, therefore, and believe; that is, renounce dead works; for of what use is believing without good works? The merit of good works does not, however, bring to faith, but faith begins, that good works may follow.",
@@ -599,7 +698,16 @@
                 "Jesus told the disciples not to say anything about their experience until after the Resurrection. Why?",
                 "Why did Jesus allow the disciples to see Him transfigured?"
             ],
-            "questions": "1. In what ways have you noticed God's timing in your life? 2. Do you realize that, when you are in a state of grace, you are in Jesus' inner circle? How would your life be different if you continually remembered that intimate relationship? 3. How much time do you take to be alone with Jesus, set apart with Him? 4. Have you had any mountain top spiritual experiences? What were they like? 5. How has Jesus transfigured you? In what areas do you still need to be changed? 6. How have you experienced God's presence? Have you ever been overcome by God's awesomeness? 7. In what ways do you listen to Jesus? How might you learn to listen more and better? 8. How have you experienced Jesus' calming touch?",
+            "questions": [
+                "In what ways have you noticed God's timing in your life?",
+                "Do you realize that, when you are in a state of grace, you are in Jesus' inner circle? How would your life be different if you continually remembered that intimate relationship?",
+                "How much time do you take to be alone with Jesus, set apart with Him?",
+                "Have you had any mountain top spiritual experiences? What were they like?",
+                "How has Jesus transfigured you? In what areas do you still need to be changed?",
+                "How have you experienced God's presence? Have you ever been overcome by God's awesomeness?",
+                "In what ways do you listen to Jesus? How might you learn to listen more and better?",
+                "How have you experienced Jesus' calming touch?"
+            ],
             "quotes": [
                 {
                     "quote": "Such as He is to be in the time of the Judgment, such was He now seen of the Apostles. Let none suppose that He lost His former form and lineaments, or laid aside His bodily reality, taking upon Him a spiritual or ethereal Body. How His transfiguration was accomplished, the Evangelist shows, saying, And his face did shine as the sun, and his raiment became white as snow. For that His face is said to shine, and His raiment described to become white, does not take away substance, but confer glory. In truth, the Lord was transformed into that glory in which He shall hereafter come in His Kingdom. The transformation enhanced the brightness, but did not destroy the countenance, although the body were spiritual; whence also His raiment was changed and became white to such a degree, as in the expression of another Evangelist, no fuller on earth can whiten them. But all this is the property of matter, and is the subject of the touch, not of spirit and ethereal, an illusion upon the sight only beheld in phantasm.",
@@ -664,7 +772,19 @@
                 "In chapter 13 of his Gospel, St. John relates how Jesus washed the disciples' feet during the Last Supper. Read this account and ponder Jesus' words and actions. Think about how Jesus assumed the role of a servant. Also consider Peter's attempt to resist and Jesus' response to Peter. Reflect on how Jesus was modeling servanthood for His disciples who were to imitate Him. Think also about how this event relates to the actual institution narrative.",
                 "Take some time to read the . Also explore the wonderful resources at the . Make a list of what strikes you most about the Blessed Sacrament and spend time reflecting on those points. The more time and effort you put into learning about Jesus' awesome gift, the more you will grow in your spiritual life and the deeper your Rosary prayer will be."
             ],
-            "questions": "1. What do you really believe about the Eucharist? Do your beliefs match the Church's teaching? If not, are you willing, through study and prayer, to learn more about the Blessed Sacrament and come to accept that the Church's teaching is in fact Jesus' teaching? 2. What kind of effort are you making to better understand and appreciate the great gift of the Eucharist? 3. How are you obeying, or not obeying, Jesus? 4. Do you trust in Jesus' words and promises even when they seem impossible or you don't understand them? 5. How do you offer yourself to Jesus? 6. How do you give thanks to God for all that He has given you and especially for the Eucharist? 7. Do you attend Mass at least on Sundays and Holy Days of Obligation? How do you behave at Mass? Do you give your full attention or are you distracted? Do you truly understand what happens in the Mass? How might you grow in knowledge, attention, and devotion? 8. Do you believe that Jesus is really and truly present, Body, Blood, Soul, and Divinity, in the Eucharist? How do you live that belief? How does it affect the way in which you receive Jesus in Holy Communion and experience the great gift of the Eucharist? 9. Are you receiving the Eucharist worthily? 10. How do you prepare your heart to receive Holy Communion? How might you improve your preparation? 11. In what ways are you a servant to other people? How might you grow in your servanthood?",
+            "questions": [
+                "What do you really believe about the Eucharist? Do your beliefs match the Church's teaching? If not, are you willing, through study and prayer, to learn more about the Blessed Sacrament and come to accept that the Church's teaching is in fact Jesus' teaching?",
+                "What kind of effort are you making to better understand and appreciate the great gift of the Eucharist?",
+                "How are you obeying, or not obeying, Jesus?",
+                "Do you trust in Jesus' words and promises even when they seem impossible or you don't understand them?",
+                "How do you offer yourself to Jesus?",
+                "How do you give thanks to God for all that He has given you and especially for the Eucharist?",
+                "Do you attend Mass at least on Sundays and Holy Days of Obligation? How do you behave at Mass? Do you give your full attention or are you distracted? Do you truly understand what happens in the Mass? How might you grow in knowledge, attention, and devotion?",
+                "Do you believe that Jesus is really and truly present, Body, Blood, Soul, and Divinity, in the Eucharist? How do you live that belief? How does it affect the way in which you receive Jesus in Holy Communion and experience the great gift of the Eucharist?",
+                "Are you receiving the Eucharist worthily?",
+                "How do you prepare your heart to receive Holy Communion? How might you improve your preparation?",
+                "In what ways are you a servant to other people? How might you grow in your servanthood?"
+            ],
             "quotes": [
                 {
                     "quote": "The Lord committed His Body and Blood to substances which are formed a homogeneous compound out of many. Bread is made of many grains, wine is produced out of many berries. Herein the Lord Jesus Christ signified us, and hallowed in His own table the mystery of our peace and unity.",
@@ -729,7 +849,25 @@
                 "Jesus prayed a third time using the same words. He then returned to the disciples, who were once again asleep. Jesus asked them, \u201cAre you still sleeping and taking your rest?\u201d How come the disciples still couldn't stay awake, even after being lightly scolded by Jesus twice before?",
                 "Jesus continued, \u201cSee, the hour is at hand, and the Son of Man is betrayed into the hands of sinners. Get up, let us be going. See my betrayer is at hand.\u201d Jesus once again spoke of \u201cthe hour.\u201d What did He mean? Jesus knew what was going to happen to Him. He went out to meet it. He had prayed, and He was now prepared. His betrayer, Judas, was close by."
             ],
-            "questions": "1. What kinds of choices are you making in your life? Are your choices more like Jesus' or more like Adam's? 2. How often and in what ways do you pray? 3. Do you understand that when you are in a state of grace, you are a member of Jesus' \u201cinner circle\u201d? How would a constant recollection of this change your life? 4. Do you turn to God when you are sorrowful, troubled, and in anguish? How have you felt His presence at those times? 5. Do you realize how much sorrow your sins bring to Jesus? How might such a realization make you less likely to commit sin? 6. Are you attentive during prayer? Or do you get distracted? How might you limit your distractions during prayer? 7. What do you believe about the nature and purpose of prayer? 8. How does your prayer change you? 9. How hard is it for you to imitate Jesus and say to God \u201cyet not what I want, but what You want\u201d? 10. How are you at accepting God's will even when it is not your will? 11. Can you stay awake with Jesus for one hour? What does staying awake with Jesus mean to you? 12. Have there been times when you are \u201csleepy\u201d in your spiritual life? What are those times like? How do you overcome them? 13. How do you handle the trials in your life? 14. When and in what situations has your spirit been willing but your flesh been weak? 15. Do you have a relationship with the angels? How do the angels influence your life? 16. How have you struggled with the devil? Do you rely on Jesus to strengthen you? 17. Are you prepared to meet trials in your life? How might you become more prepared?",
+            "questions": [
+                "What kinds of choices are you making in your life? Are your choices more like Jesus' or more like Adam's?",
+                "How often and in what ways do you pray?",
+                "Do you understand that when you are in a state of grace, you are a member of Jesus' \u201cinner circle\u201d? How would a constant recollection of this change your life?",
+                "Do you turn to God when you are sorrowful, troubled, and in anguish? How have you felt His presence at those times?",
+                "Do you realize how much sorrow your sins bring to Jesus? How might such a realization make you less likely to commit sin?",
+                "Are you attentive during prayer? Or do you get distracted? How might you limit your distractions during prayer?",
+                "What do you believe about the nature and purpose of prayer?",
+                "How does your prayer change you?",
+                "How hard is it for you to imitate Jesus and say to God \u201cyet not what I want, but what You want\u201d?",
+                "How are you at accepting God's will even when it is not your will?",
+                "Can you stay awake with Jesus for one hour? What does staying awake with Jesus mean to you?",
+                "Have there been times when you are \u201csleepy\u201d in your spiritual life? What are those times like? How do you overcome them?",
+                "How do you handle the trials in your life?",
+                "When and in what situations has your spirit been willing but your flesh been weak?",
+                "Do you have a relationship with the angels? How do the angels influence your life?",
+                "How have you struggled with the devil? Do you rely on Jesus to strengthen you?",
+                "Are you prepared to meet trials in your life? How might you become more prepared?"
+            ],
             "quotes": [
                 {
                     "quote": "But seeing that prayer is the sending up the understanding to God, or the asking of God things fitting, how did the Lord pray? For His understanding needed not to be lifted up to God, having been once united hypostatically to God the Word. Neither could He need to ask of God things fitting, for the One Christ is both God and Man. But giving in Himself a pattern to us, He taught us to ask of God, and to lift up our minds to Him. As He took on Him our passions, that by triumphing over them Himself, He might give us also the victory over them, so now He prays to open to us the way to that lifting up to God, to fulfill for us all righteousness, to reconcile His Father to us, to pay honor to Him as the First Cause, and to show that He is not against God.",
@@ -807,7 +945,15 @@
                 "Remember that Jesus could have stopped the scourging, and the entire Passion, at any point. He was and is God. But He chose to suffer it for our sake, to save us, and bring us home to Heaven to be with Him forever. Ponder this amazing truth.",
                 "Place yourself in the sandals of those who witnessed the scourging. What did they see? How did they react?"
             ],
-            "questions": "1. How have you betrayed Jesus throughout your life? Have you repented of your sins and confessed them? Do you understand that Jesus forgives you and loves you even when you do betray Him? 2. How do you respond when you are falsely accused by someone? 3. In what ways have you, like Peter, denied Jesus? How did you feel afterward? 4. Have you ever been influenced to do something you knew was wrong? Have you ever followed the crowd instead of your conscience? Why did you do so? How did you feel afterward? 5. Do you truly realize, do you truly understand, what Jesus endured for you? 6. How should you respond to Jesus' self-giving love? 7. Do you realize that Jesus completely understands your pain? How might this realization change your relationship with Him and your view of the sufferings in your own life?",
+            "questions": [
+                "How have you betrayed Jesus throughout your life? Have you repented of your sins and confessed them? Do you understand that Jesus forgives you and loves you even when you do betray Him?",
+                "How do you respond when you are falsely accused by someone?",
+                "In what ways have you, like Peter, denied Jesus? How did you feel afterward?",
+                "Have you ever been influenced to do something you knew was wrong? Have you ever followed the crowd instead of your conscience? Why did you do so? How did you feel afterward?",
+                "Do you truly realize, do you truly understand, what Jesus endured for you?",
+                "How should you respond to Jesus' self-giving love?",
+                "Do you realize that Jesus completely understands your pain? How might this realization change your relationship with Him and your view of the sufferings in your own life?"
+            ],
             "quotes": [
                 {
                     "quote": "It should be known that Pilate administered the Roman law, which enacted that every one who was crucified should first be scourged. Jesus then is given up to the soldiers to be beaten, and they tore with whips that most holy body and capacious bosom of God. This was done that we might be delivered from those stripes of which it is said, Many stripes shall be to the wicked.",
@@ -853,7 +999,9 @@
                 "In John's Gospel, Pilate presented Jesus to the crowd one more time while He was still wearing the crown of thorns and the robe. This is not contradictory to the other Gospels. John simply chose to include an event that the others, for whatever reason, don't mention. The crowds rejected Jesus and called for His crucifixion. Meditate on Pilate's actions, Jesus' appearance, and the crowd's response.",
                 "What does the crowning of thorns reveal to us about Jesus? Consider His silence in the face of the soldiers' cruel mockery and physical abuse."
             ],
-            "questions": "1. Have you ever seen or been part of a crowd that was being cruel to another person? What did it make you feel like? Did you do anything to stop it?"
+            "questions": [
+                "Have you ever seen or been part of a crowd that was being cruel to another person? What did it make you feel like? Did you do anything to stop it?"
+            ]
         },
         "4": {
             "title": "The Carrying of the Cross",
@@ -881,7 +1029,17 @@
                 "Jesus fell one more time as He neared Calvary. By this time, He would have been exhausted, but He got up and continued on His path to the cross. Ponder Jesus' complete self-surrender.",
                 "Walk with Jesus along the Way of the Cross. Place yourself next to Him and journey with Him on the path to Calvary."
             ],
-            "questions": "1. How do you take up your cross and follow Jesus? What are the crosses in your life? How do you respond to them? Do you join your personal Way of the Cross to Jesus'? How might your life be different if you did so more often? 2. Are there any sins that you need to confess? Do you struggle with any particular sins? Do you take them to Jesus and ask for help? 3. When have you fallen in your life? What did those falls feel like? When you fall, do you get up and keep going? Why or why not? 4. Do you share your pain with others? Do others share their pain with you? What are those experiences like? How do you help other people carry their crosses? How do you comfort those who are in pain? 5. How do you think you would have responded if you had been part of the crowd that was watching Jesus as He carried His cross to Calvary? 6. What are the defining moments in your spiritual life? 7. Are you a courageous person? Why or why not? 8. Do you weep for the world and for the people around you? Does your prayer include intercession for the whole world? 9. Have you surrendered you entire life, your entire self, to God? If not, will you do so?",
+            "questions": [
+                "How do you take up your cross and follow Jesus? What are the crosses in your life? How do you respond to them? Do you join your personal Way of the Cross to Jesus'? How might your life be different if you did so more often?",
+                "Are there any sins that you need to confess? Do you struggle with any particular sins? Do you take them to Jesus and ask for help?",
+                "When have you fallen in your life? What did those falls feel like? When you fall, do you get up and keep going? Why or why not?",
+                "Do you share your pain with others? Do others share their pain with you? What are those experiences like? How do you help other people carry their crosses? How do you comfort those who are in pain?",
+                "How do you think you would have responded if you had been part of the crowd that was watching Jesus as He carried His cross to Calvary?",
+                "What are the defining moments in your spiritual life?",
+                "Are you a courageous person? Why or why not?",
+                "Do you weep for the world and for the people around you? Does your prayer include intercession for the whole world?",
+                "Have you surrendered you entire life, your entire self, to God? If not, will you do so?"
+            ],
             "quotes": [
                 {
                     "quote": "...as they went out, they laid hold of Simon, but when they drew near to the place in which they would crucify Him, they laid the cross upon Him that He might bear it. Simon obtained not this office by chance, but was brought to the spot by God's providence, that he might be found worthy of mention in the Scriptures of the Gospel, and of the ministry of the cross of Christ. And it was not only meet that the Savior should carry His cross, but meet also that w e should take part therein, filling a carriage so beneficial to us. Yet would it not have so profited us to take it on us, as we have profited by His taking it upon Himself.",
@@ -965,7 +1123,19 @@
                 "Pilate released Jesus' body to Joseph of Arimathea. Joseph wrapped the Body and laid it in his own new tomb that had been hewn from the rock. Nicodemus brought a hundred pounds of myrrh and aloes to perform the Jewish burial customs. These rites had to be abbreviated because of the approaching sabbath. They rolled a large stone in front of the tomb's opening and went away until after the sabbath. Meditate on the loving care with which Jesus' disciples carried out His burial.",
                 "Mary Magdalene and at least one other woman remained sitting opposite the tomb. Why? Ponder their lonely vigil."
             ],
-            "questions": "1. What do you feel when You think about Jesus being nailed to the cross and then hanging there, left to die? 2. Do you understand that Jesus did all of this for you, suffered all of this for you? How might your life be different if you reflected on this point more often? 3. How do you handle your pain? Do you unite it with Jesus' sufferings? 4. Is Jesus the King of your life? How so? How might you allow Him to reign over you even more? 5. Are you able to forgive those who hurt you? 6. When have you felt the kind of humble repentance that the thief expressed on the cross? How do you think Jesus responded to you? 7. Is your faith strong? Do you expect God to provide signs in order for you to believe? 8. What is your relationship with Mary? Is she your mother? 9. Have you ever felt abandoned by God? What were the circumstances? How did you respond? 10. What do you believe about the Catholic Church? Why? 11. Have you ever lost someone you loved? How did that feel? How did you cope with it? Did you turn to Jesus for help?",
+            "questions": [
+                "What do you feel when You think about Jesus being nailed to the cross and then hanging there, left to die?",
+                "Do you understand that Jesus did all of this for you, suffered all of this for you? How might your life be different if you reflected on this point more often?",
+                "How do you handle your pain? Do you unite it with Jesus' sufferings?",
+                "Is Jesus the King of your life? How so? How might you allow Him to reign over you even more?",
+                "Are you able to forgive those who hurt you?",
+                "When have you felt the kind of humble repentance that the thief expressed on the cross? How do you think Jesus responded to you?",
+                "Is your faith strong? Do you expect God to provide signs in order for you to believe?",
+                "What is your relationship with Mary? Is she your mother?",
+                "Have you ever felt abandoned by God? What were the circumstances? How did you respond?",
+                "What do you believe about the Catholic Church? Why?",
+                "Have you ever lost someone you loved? How did that feel? How did you cope with it? Did you turn to Jesus for help?"
+            ],
             "quotes": [
                 {
                     "quote": "Such is the place of the cross, set up in the center of the earth, that it might be equally free to all nations to attain the knowledge of God.",
@@ -1057,7 +1227,26 @@
                 "Jesus asked Peter three times, \u201cDo you love Me?\u201d Ponder this conversation. Why did Jesus ask three times? What does it mean to care for Jesus' sheep?",
                 "Jesus commissioned the disciples to \u201cGo therefore and make disciples of all the nations, baptizing them in the name of the Father and of the Son, and of the Holy Spirit, and teaching them to obey everything that I have commanded you. And remember, I am with You always, to the end of the age.\u201d Ponder Jesus' words and the mission they command."
             ],
-            "questions": "1. Have you ever felt like there is nothing you can do for someone you love? How did that make you feel? 2. What makes you afraid? How do you conquer your fears? 3. What does Jesus' victory over death mean to you? How does it affect your life? 4. Has God ever done anything dramatic in your life? What? 5. Do you ever look for the living among the dead? Is your attention focused on things that will not bring you true life and happiness? How might you change that? 6. In what ways are you an evangelist to the world around you? How might your spread the Word of God even more? 7. Are you ever hesitant to believe in God or in the teachings of the Church? In what circumstances? How do you overcome your hesitancy? 8. How do you respond to grief? 9. When have you had trouble recognizing Jesus in your life? 10. Do you ever cling to the ways of the past instead of moving forward into the present and toward the future? How might you let go and surrender yourself to God? 11. Are you joyful in your faith? Why or why not? How might you increase your joy? 12. Have you ever felt your heart burn within you as you read the Scriptures or received the sacraments? What was the experience like? 13. Do you spend time reading and meditating on the Scriptures daily? Why or why not? 14. How do you experience the peace of Jesus? 15. Have you ever been a \u201cdoubting Thomas\u201d? Why or why not? If you have been, what changed your heart and mind? 16. How are you called to care for Jesus' sheep? 17. What kind of relationship do you have with the risen Jesus? 18. Do you remember that Jesus is with you always?",
+            "questions": [
+                "Have you ever felt like there is nothing you can do for someone you love? How did that make you feel?",
+                "What makes you afraid? How do you conquer your fears?",
+                "What does Jesus' victory over death mean to you? How does it affect your life?",
+                "Has God ever done anything dramatic in your life? What?",
+                "Do you ever look for the living among the dead? Is your attention focused on things that will not bring you true life and happiness? How might you change that?",
+                "In what ways are you an evangelist to the world around you? How might your spread the Word of God even more?",
+                "Are you ever hesitant to believe in God or in the teachings of the Church? In what circumstances? How do you overcome your hesitancy?",
+                "How do you respond to grief?",
+                "When have you had trouble recognizing Jesus in your life?",
+                "Do you ever cling to the ways of the past instead of moving forward into the present and toward the future? How might you let go and surrender yourself to God?",
+                "Are you joyful in your faith? Why or why not? How might you increase your joy?",
+                "Have you ever felt your heart burn within you as you read the Scriptures or received the sacraments? What was the experience like?",
+                "Do you spend time reading and meditating on the Scriptures daily? Why or why not?",
+                "How do you experience the peace of Jesus?",
+                "Have you ever been a \u201cdoubting Thomas\u201d? Why or why not? If you have been, what changed your heart and mind?",
+                "How are you called to care for Jesus' sheep?",
+                "What kind of relationship do you have with the risen Jesus?",
+                "Do you remember that Jesus is with you always?"
+            ],
             "quotes": [
                 {
                     "quote": "He rose again after three days, to signify the consent of the whole Trinity in the passion of the Son; the three days' space is read figuratively, because the Trinity which in the beginning made man, the same in the end restores man by the passion of Christ.",
@@ -1134,7 +1323,21 @@
                 "Three thousand people were baptized that day. Ponder this great work of the Holy Spirit.",
                 "The new Christians joined the rest of the Christian community. They all devoted themselves to the apostles' teaching, fellowship, the breaking of the bread (the Eucharist), and prayers. Meditate on these early Christians and their devotion. How is our modern Christian life similar and different?"
             ],
-            "questions": "1. How important is it to you to gather and pray with other Christians? What are the advantages of sharing one's faith and prayer with others? 2. How is God trying to get your attention today? 3. Are you on fire with the Holy Spirit? Why or why not? How might your life be different if you allowed the power of the Spirit to set your heart aflame? 4. Do you need to be purified in your attitudes, thoughts, words, and/or deeds? 5. Have you ever been filled with the Holy Spirit (think especially about your baptism and confirmation)? Were you conscience of it at the time? What did it feel like? How did you respond? 6. What is your current relationship with the Holy Spirit? Does the Third Person of the Blessed Trinity play a major role in your life? Why or why not? 7. What deeds of power has God performed in your life? Are you properly amazed by them? 8. Have you encountered scoffers who sneer at Christianity? How do you respond to them? 9. Do you believe that Jesus always keeps His promises? How has He done so in your life? 10. How are the seven gifts and twelve fruits of the Holy Spirit present and active in your life? In which areas do you need to ask the Holy Spirit to increase His gifts and fruits? 11. Have you ever been \u201ccut to the heart\u201d by something you heard or read? What were the circumstances? How did you feel? How did you respond? 12. How do you testify to Christ and exhort others to join you in following Jesus? 13. How do you devote yourself to the apostles' teaching, fellowship, the Eucharist, and prayers in the Christian community?",
+            "questions": [
+                "How important is it to you to gather and pray with other Christians? What are the advantages of sharing one's faith and prayer with others?",
+                "How is God trying to get your attention today?",
+                "Are you on fire with the Holy Spirit? Why or why not? How might your life be different if you allowed the power of the Spirit to set your heart aflame?",
+                "Do you need to be purified in your attitudes, thoughts, words, and/or deeds?",
+                "Have you ever been filled with the Holy Spirit (think especially about your baptism and confirmation)? Were you conscience of it at the time? What did it feel like? How did you respond?",
+                "What is your current relationship with the Holy Spirit? Does the Third Person of the Blessed Trinity play a major role in your life? Why or why not?",
+                "What deeds of power has God performed in your life? Are you properly amazed by them?",
+                "Have you encountered scoffers who sneer at Christianity? How do you respond to them?",
+                "Do you believe that Jesus always keeps His promises? How has He done so in your life?",
+                "How are the seven gifts and twelve fruits of the Holy Spirit present and active in your life? In which areas do you need to ask the Holy Spirit to increase His gifts and fruits?",
+                "Have you ever been \u201ccut to the heart\u201d by something you heard or read? What were the circumstances? How did you feel? How did you respond?",
+                "How do you testify to Christ and exhort others to join you in following Jesus?",
+                "How do you devote yourself to the apostles' teaching, fellowship, the Eucharist, and prayers in the Christian community?"
+            ],
             "quotes": [
                 {
                     "quote": "'And there appeared unto them cloven tongues like as of fire, and it sat upon each of them; and they were all filled with the Holy Spirit' (Acts 2:3-4). They partook of fire, not of burning but of saving fire; of fire which consumes the thorns of sins, but gives luster to the soul. This is now coming upon you also, and that to strip away and consume your sins which are like thorns, and to brighten yet more that precious possession of your souls, and to give you grace; for He gave it then to the Apostles. And He sat upon them in the form of fiery tongues, that they might crown themselves with new and spiritual diadems by fiery tongues upon their heads. A fiery sword barred of old the gates of Paradise; a fiery tongue which brought salvation restored the gift.",
@@ -1195,7 +1398,15 @@
                 "Meditate on Mary's great love for God and His people.",
                 "Spend some time meditating on one or more . How does each image present the event? How does it depict Mary?"
             ],
-            "questions": "1. How do you view the relationship between Scripture and Tradition? Do you fully understand and appreciate the rich Tradition of the Catholic Church? 2. Do you have a strong relationship with Mary? Is she your mother? Why or why not? How might you strengthen your relationship with Mary? 3. Of which sins do you especially need to repent? Which are most challenging to you? How might you claim Mary's help in overcoming your sins? 4. Have you even been separated from a loved one by death? How does that feel? How do you cope? 5. Are you looking forward to happy reunions with those who have already passed over into eternal life? Can you imagine what those reunions might be like? 6. How do you express your longing for eternal life with God in Heaven? 7. Do you imitate Mary in your love for God and other people? How might you do so more?",
+            "questions": [
+                "How do you view the relationship between Scripture and Tradition? Do you fully understand and appreciate the rich Tradition of the Catholic Church?",
+                "Do you have a strong relationship with Mary? Is she your mother? Why or why not? How might you strengthen your relationship with Mary?",
+                "Of which sins do you especially need to repent? Which are most challenging to you? How might you claim Mary's help in overcoming your sins?",
+                "Have you even been separated from a loved one by death? How does that feel? How do you cope?",
+                "Are you looking forward to happy reunions with those who have already passed over into eternal life? Can you imagine what those reunions might be like?",
+                "How do you express your longing for eternal life with God in Heaven?",
+                "Do you imitate Mary in your love for God and other people? How might you do so more?"
+            ],
             "quotes": [
                 {
                     "quote": "The Apostles took up [Mary's] body on a bier and placed it in a tomb; and they guarded it, expecting the Lord to come. And behold, again the Lord stood by them; and the holy body having been received, He commanded that it be taken in a cloud into paradise: where now, rejoined to the soul, she rejoices with the Lord's chosen ones.",
@@ -1257,7 +1468,16 @@
                 "Meditate on various . How do these images portray Mary? What kinds of symbolism do they use?",
                 "Read about some modern Marian apparitions like , , and . Why does Mary appear to some of her children? What messages does she bring?"
             ],
-            "questions": "1. What kind of relationship do you have with Mary? How important is she to you in your spiritual life? 2. In what circumstances has Mary acted as your Advocate? How often do you ask Mary to intercede for you? 3. What are the needs and longings in your life? Will you take them to your mother Mary and ask her for her help? 4. Have you ever turned to Mary as Mediatrix to receive a special grace? Why or why not? Do you understand that the graces you receive from God come through Mary? What do you think of this? 5. How is Mary your mother? How do you respond to her mother's love? 6. How do you venerate Mary? How do you explain your veneration of Mary to others who question or criticize it? 7. Which of Mary's titles resonate most with you? Why? 8. What is your opinion of Marian apparitions? Is there a particular apparition or message that speaks to your heart?",
+            "questions": [
+                "What kind of relationship do you have with Mary? How important is she to you in your spiritual life?",
+                "In what circumstances has Mary acted as your Advocate? How often do you ask Mary to intercede for you?",
+                "What are the needs and longings in your life? Will you take them to your mother Mary and ask her for her help?",
+                "Have you ever turned to Mary as Mediatrix to receive a special grace? Why or why not? Do you understand that the graces you receive from God come through Mary? What do you think of this?",
+                "How is Mary your mother? How do you respond to her mother's love?",
+                "How do you venerate Mary? How do you explain your veneration of Mary to others who question or criticize it?",
+                "Which of Mary's titles resonate most with you? Why?",
+                "What is your opinion of Marian apparitions? Is there a particular apparition or message that speaks to your heart?"
+            ],
             "quotes": [
                 {
                     "quote": "Such is the will of God that we should have everything through Mary.",
